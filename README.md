@@ -1,4 +1,4 @@
-# Image-Classification-Python-Scikit-Learn
+# Image Classification
 
 Build an Image classifier using python and scikit-learn
 
